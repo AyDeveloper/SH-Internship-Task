@@ -1,6 +1,6 @@
 # SH-Internship-Task
 Full Name
-AYOMIRAN Pamilerin Ayobami
+AYOMITAN Pamilerin Ayobami
 Slack Id
 Ayoayobami20
 Summary of the video
